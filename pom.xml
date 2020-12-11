@@ -12,8 +12,8 @@
   <name>Okapi Components for WorldServer</name>
 
   <scm>
-    <connection>scm:git:https://github.com/spartansw/okapi-worldserver-components.git</connection>
-    <url>https://github.com/spartansw/okapi-worldserver-components</url>
+    <connection>scm:git:https://github.com/shigemichi-ssi/okapi-worldserver-components.git</connection>
+    <url>https://github.com/shigemichi-ssi/okapi-worldserver-components</url>
     <tag>HEAD</tag>
   </scm>
 
@@ -203,7 +203,7 @@
           </execution>
         </executions>
       </plugin>
-      
+
     </plugins>
   </build>
 
